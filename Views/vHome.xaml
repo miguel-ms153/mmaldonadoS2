@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="mmaldonadoS2.Views.vHome"
+             Title="vHome">
+    <VerticalStackLayout
+        Padding="20"
+        Spacing="20">
+        <Label 
+            Text="Semana 2: Elementos GUI!"
+            FontSize="18"
+            VerticalOptions="Center" 
+            TextColor="Blue"
+            HorizontalOptions="Center" />
+        <!--COMENTARIOS-->
+        <Entry x:Name="txtDato"
+               Placeholder="Ingrese el dato"/>
+        
+        <!--picker-->
+
+        <DatePicker x:Name="DpFecha"
+                    Date="12/31/2026"
+                    Format="MM/dd/yyyy"></DatePicker>
+        
+        <Border Stroke="White">
+        <Picker x:Name="pkPaises" >
+            <Picker.Items>
+                <x:String>Ecuador</x:String>
+                <x:String>Peru</x:String>
+                <x:String>Colombia</x:String>
+          </Picker.Items>
+            </Picker>
+        </Border>
+
+        <Button x:Name="btnMostrar"
+                Clicked="btnMostrar_Clicked"
+                Text="Mostrar"/>
+
+        <Button x:Name="btnAbrir"
+                Text="Abrir tarea"
+                Clicked="btnAbrir_Clicked"/>
+
+    </VerticalStackLayout>
+</ContentPage>

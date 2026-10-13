@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MIGUEL ETT\\source\\repos\\mmaldonadoS2\\mmaldonadoS2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE7E383-CFC9-AC41-FF9E-E74A162F2932}|mmaldonadoS2.csproj|c:\\users\\miguel ett\\source\\repos\\mmaldonados2\\mmaldonados2\\views\\vtarea.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE7E383-CFC9-AC41-FF9E-E74A162F2932}|mmaldonadoS2.csproj|solutionrelative:views\\vtarea.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE7E383-CFC9-AC41-FF9E-E74A162F2932}|mmaldonadoS2.csproj|c:\\users\\miguel ett\\source\\repos\\mmaldonados2\\mmaldonados2\\views\\vtarea.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2AE7E383-CFC9-AC41-FF9E-E74A162F2932}|mmaldonadoS2.csproj|solutionrelative:views\\vtarea.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE7E383-CFC9-AC41-FF9E-E74A162F2932}|mmaldonadoS2.csproj|c:\\users\\miguel ett\\source\\repos\\mmaldonados2\\mmaldonados2\\views\\vhome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE7E383-CFC9-AC41-FF9E-E74A162F2932}|mmaldonadoS2.csproj|solutionrelative:views\\vhome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE7E383-CFC9-AC41-FF9E-E74A162F2932}|mmaldonadoS2.csproj|c:\\users\\miguel ett\\source\\repos\\mmaldonados2\\mmaldonados2\\views\\vhome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2AE7E383-CFC9-AC41-FF9E-E74A162F2932}|mmaldonadoS2.csproj|solutionrelative:views\\vhome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE7E383-CFC9-AC41-FF9E-E74A162F2932}|mmaldonadoS2.csproj|c:\\users\\miguel ett\\source\\repos\\mmaldonados2\\mmaldonados2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2AE7E383-CFC9-AC41-FF9E-E74A162F2932}|mmaldonadoS2.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE7E383-CFC9-AC41-FF9E-E74A162F2932}|mmaldonadoS2.csproj|c:\\users\\miguel ett\\source\\repos\\mmaldonados2\\mmaldonados2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE7E383-CFC9-AC41-FF9E-E74A162F2932}|mmaldonadoS2.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE7E383-CFC9-AC41-FF9E-E74A162F2932}|mmaldonadoS2.csproj|c:\\users\\miguel ett\\source\\repos\\mmaldonados2\\mmaldonados2\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2AE7E383-CFC9-AC41-FF9E-E74A162F2932}|mmaldonadoS2.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vTarea.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL ETT\\source\\repos\\mmaldonadoS2\\mmaldonadoS2\\Views\\vTarea.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\vTarea.xaml.cs",
+              "ToolTip": "C:\\Users\\MIGUEL ETT\\source\\repos\\mmaldonadoS2\\mmaldonadoS2\\Views\\vTarea.xaml.cs",
+              "RelativeToolTip": "Views\\vTarea.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T15:25:06.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vTarea.xaml",
+              "DocumentMoniker": "C:\\Users\\MIGUEL ETT\\source\\repos\\mmaldonadoS2\\mmaldonadoS2\\Views\\vTarea.xaml",
+              "RelativeDocumentMoniker": "Views\\vTarea.xaml",
+              "ToolTip": "C:\\Users\\MIGUEL ETT\\source\\repos\\mmaldonadoS2\\mmaldonadoS2\\Views\\vTarea.xaml",
+              "RelativeToolTip": "Views\\vTarea.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-13T00:20:51.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vHome.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL ETT\\source\\repos\\mmaldonadoS2\\mmaldonadoS2\\Views\\vHome.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\vHome.xaml.cs",
+              "ToolTip": "C:\\Users\\MIGUEL ETT\\source\\repos\\mmaldonadoS2\\mmaldonadoS2\\Views\\vHome.xaml.cs",
+              "RelativeToolTip": "Views\\vHome.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwB8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T23:53:50.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\MIGUEL ETT\\source\\repos\\mmaldonadoS2\\mmaldonadoS2\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\MIGUEL ETT\\source\\repos\\mmaldonadoS2\\mmaldonadoS2\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-13T00:23:03.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL ETT\\source\\repos\\mmaldonadoS2\\mmaldonadoS2\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\MIGUEL ETT\\source\\repos\\mmaldonadoS2\\mmaldonadoS2\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T23:37:27.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vHome.xaml",
+              "DocumentMoniker": "C:\\Users\\MIGUEL ETT\\source\\repos\\mmaldonadoS2\\mmaldonadoS2\\Views\\vHome.xaml",
+              "RelativeDocumentMoniker": "Views\\vHome.xaml",
+              "ToolTip": "C:\\Users\\MIGUEL ETT\\source\\repos\\mmaldonadoS2\\mmaldonadoS2\\Views\\vHome.xaml",
+              "RelativeToolTip": "Views\\vHome.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-12T23:37:13.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\MIGUEL ETT\\source\\repos\\mmaldonadoS2\\mmaldonadoS2\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\MIGUEL ETT\\source\\repos\\mmaldonadoS2\\mmaldonadoS2\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-13T00:23:00.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

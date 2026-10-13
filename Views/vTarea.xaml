@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="mmaldonadoS2.Views.vTarea"
+             Title="Sistema de Calificaciones">
+	<ScrollView>
+		<VerticalStackLayout Padding="20" Spacing="14">
+
+			<Label Text="UISRAEL"
+                   FontSize="30"
+                   FontAttributes="Bold"
+                   TextColor="#064578"
+                   HorizontalOptions="Center"/>
+
+			<Label Text="Sistema de Calificaciones"
+                   FontSize="20"
+                   HorizontalOptions="Center"/>
+
+			<Label Text="Nombre del estudiante:"
+                   FontAttributes="Bold"/>
+
+			<Picker x:Name="EstudiantePicker"
+                    Title="Seleccione un estudiante">
+				<Picker.Items>
+					<x:String>Ana López</x:String>
+					<x:String>Carlos Pérez</x:String>
+					<x:String>María Torres</x:String>
+					<x:String>José Ramírez</x:String>
+					<x:String>Daniela Castro</x:String>
+				</Picker.Items>
+			</Picker>
+
+			<BoxView HeightRequest="1"
+                     Color="LightGray"/>
+
+			<Label Text="PRIMER PARCIAL"
+                   FontSize="18"
+                   FontAttributes="Bold"
+                   TextColor="#064578"/>
+
+			<Label Text="Nota Seguimiento 1 (sobre 10)"/>
+			<Entry x:Name="Seguimiento1Entry"
+                   Placeholder="Ingrese nota de 0 a 10"
+                   Keyboard="Numeric"
+                   MaxLength="5"/>
+
+			<Label Text="Examen 1 (sobre 10)"/>
+			<Entry x:Name="Examen1Entry"
+                   Placeholder="Ingrese nota de 0 a 10"
+                   Keyboard="Numeric"
+                   MaxLength="5"/>
+
+			<Label x:Name="Parcial1Label"
+                   Text="Nota Parcial 1: --"
+                   FontAttributes="Bold"/>
+
+			<BoxView HeightRequest="1"
+                     Color="LightGray"/>
+
+			<Label Text="SEGUNDO PARCIAL"
+                   FontSize="18"
+                   FontAttributes="Bold"
+                   TextColor="#064578"/>
+
+			<Label Text="Nota Seguimiento 2 (sobre 10)"/>
+			<Entry x:Name="Seguimiento2Entry"
+                   Placeholder="Ingrese nota de 0 a 10"
+                   Keyboard="Numeric"
+                   MaxLength="5"/>
+
+			<Label Text="Examen 2 (sobre 10)"/>
+			<Entry x:Name="Examen2Entry"
+                   Placeholder="Ingrese nota de 0 a 10"
+                   Keyboard="Numeric"
+                   MaxLength="5"/>
+
+			<Label x:Name="Parcial2Label"
+                   Text="Nota Parcial 2: --"
+                   FontAttributes="Bold"/>
+
+			<BoxView HeightRequest="1"
+                     Color="LightGray"/>
+
+			<Label Text="Fecha de evaluación:"
+                   FontAttributes="Bold"/>
+
+			<DatePicker x:Name="FechaPicker"
+                        Format="dd/MM/yyyy"/>
+
+			<Button Text="CALCULAR CALIFICACIÓN"
+                    BackgroundColor="#064578"
+                    TextColor="White"
+                    FontAttributes="Bold"
+                    Clicked="OnCalcularClicked"/>
+
+			<Label x:Name="ResultadoLabel"
+                   Text="Ingrese las notas para calcular el resultado."
+                   FontSize="16"
+                   HorizontalTextAlignment="Center"/>
+
+		</VerticalStackLayout>
+	</ScrollView>
+</ContentPage>
